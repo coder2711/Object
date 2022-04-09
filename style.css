@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+}
+#h{
+    color: black;
+    font-size: 20px;
+}
+.i{
+    color: wheat;
+}
+#object_name{
+    width: 60%;
+}
+
+button{
+    width: 35%;
+
+}
+.g{
+    margin: 20px;
+}
+canvas{
+    border: 10px solid greenyellow ;
+    border-radius: 100px;
+    box-shadow: 8px 8px 10px red;
+    margin-top: 180px;
+}
